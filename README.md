@@ -98,7 +98,7 @@ The Analysis are summarised as follows:
 - Implement a customer segmentation strategy to target high customers effectively.
 
 # Limitation
-Null Values had to be removed and be rreplaced with zeros because they would have affected the accuracy of the conclution of the anlysis.
+Null Values had to be removed and be replaced with zeros because they would have affected the accuracy of the conclution of the anlysis.
 
 
 
